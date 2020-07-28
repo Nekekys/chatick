@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chatick/static/css/main.b7be76a9.chunk.css",
+    "main.js": "/chatick/static/js/main.f38dd48e.chunk.js",
+    "main.js.map": "/chatick/static/js/main.f38dd48e.chunk.js.map",
+    "runtime-main.js": "/chatick/static/js/runtime-main.e3ffb0f8.js",
+    "runtime-main.js.map": "/chatick/static/js/runtime-main.e3ffb0f8.js.map",
+    "static/js/2.fc1cf94f.chunk.js": "/chatick/static/js/2.fc1cf94f.chunk.js",
+    "static/js/2.fc1cf94f.chunk.js.map": "/chatick/static/js/2.fc1cf94f.chunk.js.map",
+    "index.html": "/chatick/index.html",
+    "precache-manifest.6673c9ad6b1758140aedb171db12765e.js": "/chatick/precache-manifest.6673c9ad6b1758140aedb171db12765e.js",
+    "service-worker.js": "/chatick/service-worker.js",
+    "static/css/main.b7be76a9.chunk.css.map": "/chatick/static/css/main.b7be76a9.chunk.css.map",
+    "static/js/2.fc1cf94f.chunk.js.LICENSE.txt": "/chatick/static/js/2.fc1cf94f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chatick/static/media/kge1XLqxA2QЧБ_3.4e484f60.png",
+    "static/media/pepeclown.png": "/chatick/static/media/pepeclown.ea1f9ac3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3ffb0f8.js",
+    "static/js/2.fc1cf94f.chunk.js",
+    "static/css/main.b7be76a9.chunk.css",
+    "static/js/main.f38dd48e.chunk.js"
+  ]
+}
